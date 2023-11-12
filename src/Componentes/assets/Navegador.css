@@ -1,0 +1,28 @@
+.nav {
+position: fixed;
+    margin-top: 0px;
+    display: flex;
+    justify-content: flex-end;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    
+
+
+
+}
+
+.nav-bar {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 2rem;
+
+
+}
+
+
+
+.nav-bar:hover {
+    color: white;
+}

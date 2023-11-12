@@ -1,0 +1,21 @@
+.carrucel {
+    text-align: center; /* Centra el texto horizontalmente */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    z-index: 0;
+    font-weight: bold;
+  }
+  
+  .carrucel img {
+    max-width: 15%;
+    object-fit: contain;
+    margin: auto; /* Esto centra horizontalmente la imagen */
+    display: block;
+    border-radius: 20%;
+  
+  
+  }
+  
