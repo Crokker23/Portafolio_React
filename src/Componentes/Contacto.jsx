@@ -5,7 +5,7 @@ function Contacto() {
     return (
 
 
-        <div>
+       
             <div className='fundacio'>
                 <form className="formulario" id="Contacto" netlify >
                     <div>
@@ -36,7 +36,7 @@ function Contacto() {
 
 
 
-        </div>
+       
 
 
     )
