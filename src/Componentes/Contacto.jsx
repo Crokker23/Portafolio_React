@@ -7,7 +7,7 @@ function Contacto() {
 
         <div>
             <div className='fundacio'>
-                <form className="formulario" id="Contacto" >
+                <form className="formulario" id="Contacto" netlify >
                     <div>
                         <label htmlFor="nombre"> <strong>Nombre:</strong></label>
                         <input type="text" id="nombre" name="nombre" />
