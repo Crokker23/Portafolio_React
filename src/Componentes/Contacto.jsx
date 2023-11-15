@@ -20,7 +20,7 @@ function Contacto() {
                     <br />
                     <div>
                         <label htmlFor="telefono"><strong>Número Telefónico:</strong></label>
-                        <input type="tel" id="telefono" name="telefono" />
+                        <input type="num" id="telefono" name="telefono" />
                     </div>
                     <br />
                     <div>
