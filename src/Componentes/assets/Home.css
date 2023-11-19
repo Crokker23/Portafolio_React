@@ -100,6 +100,15 @@
 
 
      }
+     .enlaces-directos img {
+        width: 30px;
+        height: auto;
+        margin-right: 4px;
+        border-radius: 50%;
+    }
+    .enlaces-directos {
+        margin: 0.5rem;
+    }
 
      .Titulo {
 
@@ -139,6 +148,15 @@
 
 
      }
+     .enlaces-directos img {
+        width: 30px;
+        height: auto;
+        margin-right: 4px;
+        border-radius: 50%;
+    }
+    .enlaces-directos {
+        margin: 0.5rem;
+    }
 
      .Titulo {
          display: flex;
@@ -179,6 +197,15 @@
 
 
      }
+     .enlaces-directos img {
+        width: 30px;
+        height: auto;
+        margin-right: 4px;
+        border-radius: 50%;
+    }
+    .enlaces-directos {
+        margin: 0.5rem;
+    }
 
      .Titulo {
          display: flex;
@@ -218,6 +245,15 @@
          display: inline;
 
      }
+     .enlaces-directos img {
+        width: 30px;
+        height: auto;
+        margin-right: 4px;
+        border-radius: 50%;
+    }
+    .enlaces-directos {
+        margin: 0.5rem;
+    }
 
      .Titulo {
          display: flex;
