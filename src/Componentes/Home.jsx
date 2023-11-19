@@ -37,7 +37,7 @@ const Home = () => {
         <a href="https://github.com/Crokker23" className='enlaces-directos' target='blanck'><img src="/imagenes/Github.png" alt="" /></a>
         <a href="./Curriculum/Nestor.pdf" download={"./Curriculum/Nestor.pdf"} className='enlaces-directos'><img src="/imagenes/Descarga.png" alt="" /></a>
         <a href="https://www.linkedin.com/in/néstorolivera" className='enlaces-directos' target='blanck'><img src="/imagenes/Linkedin.png" alt="" /></a>
-        <a href="mailto:crokker2023@gmail.com" className='enlaces-directos' target='_blank'><img src="/imagenes/Gmail.png" alt="" /></a>
+        <a href="mailto:crokker2023@gmail.com" className='enlaces-directos' target='_blank' rel="noreferrer" ><img src="/imagenes/Gmail.png" alt="" /></a>
 
 
       </div>
