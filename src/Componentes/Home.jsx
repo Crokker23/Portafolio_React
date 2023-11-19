@@ -1,7 +1,6 @@
 import React from 'react';
 import "./assets/Home.css";
 import Carrusel from './Carrucel';
-import Contacto from './Contacto';
 import Footer from './Footer';
 
 
@@ -11,10 +10,10 @@ import Footer from './Footer';
 const Home = () => {
 
   return (
-    <div className='Home' id='Home'>
+    <div className='Home'>
 
       <div>
-        <img className='uruguay' src="./imagenes/uruguay.jpg" alt="" />
+        <img className='uruguay' id="Home" src="./imagenes/uruguay.jpg" alt="" />
       </div>
 
       <div class='Titulo' >
@@ -102,11 +101,8 @@ const Home = () => {
       </div>
       <Carrusel />
 
-      <div className='fundacio'>
-        <h1 className='contacto-titulo'>Contacto</h1>
-
-      </div>
-      <Contacto />
+     
+    
 
 <Footer/>
 
